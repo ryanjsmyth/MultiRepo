@@ -1,0 +1,6 @@
+[submodule "package-b"]
+	path = package-b
+	url = https://github.com/ryanjsmyth/package-b.git
+[submodule "package-a"]
+	path = package-a
+	url = https://github.com/ryanjsmyth/package-a.git
